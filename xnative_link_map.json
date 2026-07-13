@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "description": "Legacy xid→query map (hortense667/xnative). Preferred: each author hosts xnative_link_map.json in their own xnative-timeline repo; share links use ?gh={GitHubID}&t={shortKey}-y{year}.",
+  "updatedAt": "2026-07-13",
+  "entries": {
+    "jimbocho03": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_jimbocho_03.json",
+      "label": "神田神保町年表 0.2"
+    },
+    "jimbocho02": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_jimbocho_02.json",
+      "label": "神田神保町年表 0.2 (prev)"
+    },
+    "initial00": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_initial_00.json",
+      "label": "Xnative 初期年表"
+    },
+    "popculture02": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_popculture_02.json",
+      "label": "ポップカルチャー年表 0.2"
+    },
+    "popzutest04": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_popculture_02-zutest04.json",
+      "label": "ポップカルチャー年表 zutest04"
+    },
+    "popzutest05": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_popculture_02-zutest05.json",
+      "label": "ポップカルチャー年表 zutest05"
+    },
+    "digital02": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_digital_02.json",
+      "label": "デジタル史年表 0.2"
+    },
+    "background02": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_background_02.json",
+      "label": "時代背景年表 0.2"
+    },
+    "ai02": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_ai_02.json",
+      "label": "AI史年表 0.2"
+    },
+    "akihabara02": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_akihabara_02.json",
+      "label": "秋葉原年表 0.2"
+    },
+    "gadget02": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_gadget_02.json",
+      "label": "ガジェット年表 0.2"
+    },
+    "cp01": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_cp_01.json",
+      "label": "コンピュータ史年表 0.1"
+    },
+    "nagaoka01": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_nagaoka_01.json",
+      "label": "長岡年表 0.1"
+    },
+    "nagaoka02": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_nagaoka_02.json",
+      "label": "長岡年表 0.2"
+    },
+    "ipsmuseum": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_ips_museum.json",
+      "label": "情報処理学会年表（博物館）"
+    },
+    "ipsMuseum": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_ips_museum.json",
+      "label": "情報処理学会年表（博物館）"
+    },
+    "ipsmuseuma": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_ips_museum_a.json",
+      "label": "情報処理学会 年表（補遺）"
+    },
+    "ipsjmerged": {
+      "params": "owner=hortense667&repo=xnative&filePath=timeline_ipsj_museum_merged_plus_2001_2026_v3_japan15.json",
+      "label": "情報処理学会コンピュータ博物館年表（補遺案マージ）"
+    }
+  }
+}
